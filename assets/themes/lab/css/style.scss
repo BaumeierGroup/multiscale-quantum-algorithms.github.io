@@ -354,6 +354,16 @@ strong {
 	
 }
 
+.responsive-img {
+  max-width: 100vw;
+  max-height: 100vh;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
 .journal {
 	font-style: italic;
 }
