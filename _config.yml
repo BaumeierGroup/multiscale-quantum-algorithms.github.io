@@ -14,7 +14,7 @@ repository: BaumeierGroup/multiscale-quantum-algorithms.github.io
 # so be sure to set them if your theme uses them.
 #
 title : Multiscale Quantum Algorithms
-tagline: Multiscale Quantum Algorithms
+tagline: Rigorous algorithms for quantum molecular science, from theory to simulation and emerging quantum platforms.
 institution:
   url: http://www.tue.nl
   name: Eindhoven University of Technology
