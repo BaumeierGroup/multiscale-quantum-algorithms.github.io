@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 234 126" style="enable-background:new 0 0 234 126;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000080890876515456216200000012984028666179974575_);}
+	.st1{fill:#010101;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:8.6366px;}
+	.st4{fill:none;stroke:#010101;}
+	.st5{fill:#B22024;stroke:#010101;}
+	.st6{fill:#279765;stroke:#010101;}
+	.st7{font-size:8.3008px;}
+	.st8{letter-spacing:1;}
+	.st9{letter-spacing:7;}
+	.st10{font-size:12.5857px;}
+	.st11{letter-spacing:2;}
+	.st12{clip-path:url(#SVGID_00000151527945584378443190000004677410724778743707_);}
+	.st13{clip-path:url(#SVGID_00000151524959403523599590000015764381780237822391_);}
+	.st14{font-family:'NimbusSanL-Regu';}
+	.st15{font-size:10.9226px;}
+	.st16{clip-path:url(#SVGID_00000039120329892538082800000001049568592667859602_);}
+	.st17{clip-path:url(#SVGID_00000025400669667743045010000000420071842275145118_);}
+	.st18{clip-path:url(#SVGID_00000013902859569060916000000005807469470647686311_);}
+	.st19{clip-path:url(#SVGID_00000052803986352373932950000003817804338498733995_);}
+	.st20{font-family:'NimbusSanL-ReguItal';}
+	.st21{font-size:7.6458px;}
+	.st22{clip-path:url(#SVGID_00000172423493140388539820000017272039992948566420_);}
+	.st23{clip-path:url(#SVGID_00000016052355336718761880000004659595959821932417_);}
+	.st24{clip-path:url(#SVGID_00000080890876515456216200000012984028666179974575_);stroke:#000000;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="234" height="126"/>
+	</defs>
+	<clipPath id="SVGID_00000094610963330326262770000014880674844419264170_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="gnuplot_canvas" style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);">
+		<g>
+			<g transform="translate(45.6,447.9)">
+				<text transform="matrix(1 0 0 1 -37.6767 -336.943)" class="st1 st2 st3">0</text>
+			</g>
+		</g>
+		<g>
+			<path class="st4" d="M15.46,87.36h5.76 M232.96,87.36h-7.93"/>
+		</g>
+		<g>
+			<path class="st4" d="M15.46,68.75h5.76 M232.96,68.75h-7.93"/>
+		</g>
+		<g>
+			<path class="st4" d="M15.46,50.12h5.76 M232.96,50.12h-7.93"/>
+		</g>
+		<g>
+			<path class="st4" d="M15.46,31.48h5.76 M232.96,31.48h-7.93"/>
+		</g>
+		<g>
+			<path class="st4" d="M15.46,12.84h5.76 M232.96,12.84h-7.93"/>
+			<g transform="translate(45.6,53.5)">
+				<text transform="matrix(1 0 0 1 -44.8798 -43.2412)" class="st1 st2 st3">2.5</text>
+			</g>
+		</g>
+		<g>
+			<path class="st4" d="M100.06,106 M100.06,5.4"/>
+		</g>
+		<g>
+			<path class="st4" d="M15.46,5.4V106h217.5V5.4H15.46z"/>
+		</g>
+		<g id="gnuplot_plot_1">
+			<g>
+				<path class="st4" d="M27.43,106V81.79h6.9V106H27.43z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_2">
+			<g>
+				<path class="st5" d="M42.12,106V69.86h6.82V106H42.12z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_3">
+			<g>
+				<path class="st5" d="M58.35,106V69.86h6.82V106H58.35z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_4">
+			<g>
+				<path class="st5" d="M72.14,106V69.48h6.9V106H72.14z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_5">
+			<g>
+				<path class="st5" d="M88.45,106V68h6.82v38H88.45z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_6">
+			<g>
+				<path class="st6" d="M103.87,106V56.07h6.82V106H103.87z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_7">
+			<g>
+				<path class="st6" d="M120.1,106V55.69h6.9V106H120.1z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_8">
+			<g>
+				<path class="st6" d="M135.6,106V50.85h6.82V106H135.6z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_9">
+			<g>
+				<path class="st6" d="M151.02,106V49.74h6.82V106H151.02z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_10">
+			<g>
+				<path class="st4" d="M166.44,106V45.65h6.9V106H166.44z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_11">
+			<g>
+				<path class="st4" d="M181.94,106V38.94h6.82V106H181.94z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_12">
+			<g>
+				<path class="st4" d="M197.36,106V38.57h6.82V106H197.36z"/>
+			</g>
+		</g>
+		<g id="gnuplot_plot_13">
+			<g>
+				<path class="st4" d="M211.96,106V27.02h6.9V106H211.96z"/>
+			</g>
+		</g>
+	</g>
+	<g style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);">
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(0 -1 1 0 7.1235 101.7725)" class="st1 st2 st7">A</text>
+					<text transform="matrix(0 -1 1 0 7.1235 97.0137)" class="st1 st2 st7">v</text>
+					<text transform="matrix(0 -1 1 0 7.1235 93.2373)" class="st1 st2 st7">e</text>
+					<text transform="matrix(0 -1 1 0 7.1235 89.0693)" class="st1 st2 st7">r</text>
+					<text transform="matrix(0 -1 1 0 7.1235 86.4189)" class="st1 st2 st7">ag</text>
+					<text transform="matrix(0 -1 1 0 7.1235 77.7891)" class="st1 st2 st7 st8">e</text>
+					<text transform="matrix(0 -1 1 0 7.1235 71.8535)" class="st1 st2 st7">relati</text>
+					<text transform="matrix(0 -1 1 0 7.1235 54.3442)" class="st1 st2 st7">v</text>
+					<text transform="matrix(0 -1 1 0 7.1235 50.5688)" class="st1 st2 st7 st8">e</text>
+					<text transform="matrix(0 -1 1 0 7.1235 44.6333)" class="st1 st2 st7">erro</text>
+					<text transform="matrix(0 -1 1 0 7.1235 30.5103)" class="st1 st2 st7 st9">r</text>
+					<text transform="matrix(0 -1 1 0 7.1235 26.1382)" class="st1 st2 st7">[%]</text>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);">
+		<g>
+			<g>
+				<g>
+					<g>
+						<text transform="matrix(1 0 0 1 85.644 120.0352)" class="st1 st2 st10">L</text>
+						<text transform="matrix(1 0 0 1 91.5493 120.0352)" class="st1 st2 st10">e</text>
+						<text transform="matrix(1 0 0 1 97.5298 120.0352)" class="st1 st2 st10">v</text>
+						<text transform="matrix(1 0 0 1 103.2778 120.0352)" class="st1 st2 st10">e</text>
+						<text transform="matrix(1 0 0 1 109.5688 120.0352)" class="st1 st2 st10 st11">l</text>
+						<text transform="matrix(1 0 0 1 116.0151 120.0352)" class="st1 st2 st10">o</text>
+						<text transform="matrix(1 0 0 1 122.9287 120.0352)" class="st1 st2 st10 st11">f</text>
+						<text transform="matrix(1 0 0 1 130.0742 120.0352)" class="st1 st2 st10">theo</text>
+						<text transform="matrix(1 0 0 1 154.4648 120.0352)" class="st1 st2 st10">r</text>
+						<text transform="matrix(1 0 0 1 158.9678 120.0352)" class="st1 st2 st10">y</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);">
+		<defs>
+			
+				<rect id="SVGID_00000128450140516916887880000005682511757944051859_" x="189.63" y="-2.69" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 215.4431 -179.2689)" width="15.45" height="41.55"/>
+		</defs>
+		<clipPath id="SVGID_00000029038971630701011450000000231345071624115589_">
+			<use xlink:href="#SVGID_00000128450140516916887880000005682511757944051859_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000029038971630701011450000000231345071624115589_);">
+			<g>
+				<defs>
+					<rect id="SVGID_00000140703657432349256910000000325226084969123223_" x="142.94" y="4.07" width="149.57" height="45.7"/>
+				</defs>
+				<clipPath id="SVGID_00000103976995921407307810000013712663470899043724_">
+					<use xlink:href="#SVGID_00000140703657432349256910000000325226084969123223_"  style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_00000103976995921407307810000013712663470899043724_);">
+					<text transform="matrix(1 0 0 1 182.6191 21.0469)" class="st14 st15">TDDFT</text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000103976995921407307810000013712663470899043724_);">
+					<text transform="matrix(1 0 0 1 214.6846 76.0332)" class="st14 st15">1</text>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);">
+		<g>
+			<defs>
+				<rect id="SVGID_00000016782271205434941360000018050624664281670070_" x="132.24" y="-33.75" width="49.86" height="124.64"/>
+			</defs>
+			<clipPath id="SVGID_00000114049903657520007010000015595398436011826313_">
+				<use xlink:href="#SVGID_00000016782271205434941360000018050624664281670070_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_00000114049903657520007010000015595398436011826313_);">
+				<text transform="matrix(0 -1 1 0 173.123 39.4951)" class="st14 st15">CC2</text>
+			</g>
+			<g style="clip-path:url(#SVGID_00000114049903657520007010000015595398436011826313_);">
+				<text transform="matrix(0 -1 1 0 207.6143 31.6094)" class="st14 st15">1</text>
+			</g>
+		</g>
+	</g>
+	<g style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);">
+		<g>
+			<defs>
+				<rect id="SVGID_00000047044318015077242510000015026142525391064995_" x="-6.59" y="2.19" width="49.86" height="124.64"/>
+			</defs>
+			<clipPath id="SVGID_00000082352605143804357730000010382965712279144346_">
+				<use xlink:href="#SVGID_00000047044318015077242510000015026142525391064995_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_00000082352605143804357730000010382965712279144346_);">
+				<text transform="matrix(0 -1 1 0 34.2954 76.6426)" class="st14 st15">VMC</text>
+			</g>
+			<g style="clip-path:url(#SVGID_00000082352605143804357730000010382965712279144346_);">
+				<text transform="matrix(0 -1 1 0 68.7866 67.543)" class="st14 st15">1</text>
+			</g>
+		</g>
+	</g>
+	<g style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);">
+		<defs>
+			
+				<rect id="SVGID_00000133491106260230044580000006624605477425635213_" x="51.02" y="29.7" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 124.3815 -7.249)" width="29.58" height="57.73"/>
+		</defs>
+		<clipPath id="SVGID_00000018227463614056958690000012587137608449126573_">
+			<use xlink:href="#SVGID_00000133491106260230044580000006624605477425635213_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000018227463614056958690000012587137608449126573_);">
+			<g>
+				<defs>
+					<rect id="SVGID_00000026160845033219808370000012371426821583428509_" x="17" y="18.85" width="149.57" height="49.86"/>
+				</defs>
+				<clipPath id="SVGID_00000181055649774866069990000005774979471989958808_">
+					<use xlink:href="#SVGID_00000026160845033219808370000012371426821583428509_"  style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_00000181055649774866069990000005774979471989958808_);">
+					<text transform="matrix(1 0 0 1 40.8828 59.73)" class="st20 st15">G</text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000181055649774866069990000005774979471989958808_);">
+					<text transform="matrix(1 0 0 1 49.3799 61.4536)" class="st14 st21">0</text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000181055649774866069990000005774979471989958808_);">
+					<text transform="matrix(1 0 0 1 54.2061 59.73)" class="st20 st15">W</text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000181055649774866069990000005774979471989958808_);">
+					<text transform="matrix(1 0 0 1 64.5166 61.4536)" class="st14 st21">0</text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000181055649774866069990000005774979471989958808_);">
+					<text transform="matrix(1 0 0 1 69.3428 59.73)" class="st14 st15">-BSE</text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000181055649774866069990000005774979471989958808_);">
+					<text transform="matrix(1 0 0 1 88.748 94.2207)" class="st14 st15">1</text>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);">
+		<defs>
+			
+				<rect id="SVGID_00000106838968831158169170000011596359092601268410_" x="121.4" y="10.9" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 170.0706 -88.9232)" width="16.18" height="59.34"/>
+		</defs>
+		<clipPath id="SVGID_00000113319035990967926480000014548076273920213428_">
+			<use xlink:href="#SVGID_00000106838968831158169170000011596359092601268410_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000113319035990967926480000014548076273920213428_);">
+			<g>
+				<defs>
+					<rect id="SVGID_00000170237625860403880810000007083482499313893807_" x="79.81" y="2.98" width="149.57" height="49.86"/>
+				</defs>
+				<clipPath id="SVGID_00000039120296494902515670000007311692562452010897_">
+					<use xlink:href="#SVGID_00000170237625860403880810000007083482499313893807_"  style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_00000039120296494902515670000007311692562452010897_);">
+					<text transform="matrix(1 0 0 1 102.2397 43.8584)"><tspan x="0" y="0" class="st14 st15">e</tspan><tspan x="5.14" y="0" class="st14 st15">v</tspan></text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000039120296494902515670000007311692562452010897_);">
+					<text transform="matrix(1 0 0 1 113.4468 43.8584)" class="st20 st15">GW</text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000039120296494902515670000007311692562452010897_);">
+					<text transform="matrix(1 0 0 1 133.752 43.8584)" class="st14 st15">-BSE</text>
+				</g>
+				<g style="clip-path:url(#SVGID_00000039120296494902515670000007311692562452010897_);">
+					<text transform="matrix(1 0 0 1 151.5518 78.3496)" class="st14 st15">1</text>
+				</g>
+			</g>
+		</g>
+	</g>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="39.76" y1="70.26" x2="39.76" y2="63.51"/>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="97.53" y1="64.01" x2="39.76" y2="64.01"/>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="97.53" y1="70.26" x2="97.53" y2="63.51"/>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="102.24" y1="52.32" x2="102.24" y2="45.57"/>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="160.01" y1="46.07" x2="102.24" y2="46.07"/>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="160.01" y1="52.32" x2="160.01" y2="45.57"/>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="178.37" y1="29.57" x2="178.37" y2="22.82"/>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="221.46" y1="23.33" x2="178.37" y2="23.33"/>
+	
+		<line style="clip-path:url(#SVGID_00000094610963330326262770000014880674844419264170_);stroke:#000000;" x1="221.46" y1="29.57" x2="221.46" y2="22.82"/>
+</g>
+</svg>

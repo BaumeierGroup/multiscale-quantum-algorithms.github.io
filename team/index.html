@@ -1,0 +1,173 @@
+---
+layout: default
+title: "Team"
+description: "People in the lab"
+group: navigation
+navorder: 2
+---
+{% include JB/setup %}
+
+<div class="bigspacer"></div>
+{% assign current_team = site.categories.team | where: "alum","false"% | where: "position","Associate Professor"%}
+{% assign memberindex = 0 %}
+{% for member in current_team reversed %}
+	{% assign memberindex = memberindex | plus: 1 %}
+	{% assign colindex = memberindex | modulo: 1 %}
+	{% if colindex == 0 %} <!-- opening of a new row -->
+	<div class="row">
+	{% endif %}
+	<div class="col-md-9 memberbox">
+		<div class="media">
+				<a class="pull-left" href="{{ member.url }}">
+				<img class="media-object member-photo" src="{{ member.image }}">
+				</a>
+			 	<div class="media-body">
+				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+				<p class="note">{{ member.position }}</p>
+				</div>
+		</div>
+    </div>	  
+	{% if colindex == 0 %} <!-- closing a row -->
+	</div><div class="bigspacer"></div>
+	{% endif %}
+{% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
+
+<hr/>
+
+<div class="bigspacer"></div>
+{% assign current_team_doc = site.categories.team | where: "alum","false"% | where: "position","University Teacher"%}
+{% assign current_team_AP = site.categories.team | where: "alum","false"% | where: "position","Assistant Professor"%}
+{% assign current_team = current_team_doc |  concat: current_team_AP %}
+{% assign memberindex = 0 %}
+{% for member in current_team reversed %}
+	{% assign memberindex = memberindex | plus: 1 %}
+	{% assign colindex = memberindex | modulo: 2 %}
+	{% if colindex == 1 %} <!-- opening of a new row -->
+	<div class="row">
+	{% endif %}
+	<div class="col-md-4 memberbox">
+		<div class="media">
+				<a class="pull-left" href="{{ member.url }}">
+				<img class="media-object member-photo" src="{{ member.image }}">
+				</a>
+			 	<div class="media-body">
+				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+				<p class="note">{{ member.position }}</p>
+				</div>
+		</div>
+    </div>	  
+	{% if colindex == 0 %} <!-- closing a row -->
+	</div><div class="bigspacer"></div>
+	{% endif %}
+{% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
+
+
+
+
+<div class="bigspacer"></div>
+<hr/>
+
+
+{% assign current_team = site.categories.team | where: "alum","false" | where: "position","PhD Candidate"%}
+{% assign memberindex = 0 %}
+{% for member in current_team  %}
+	{% assign memberindex = memberindex | plus: 1 %}
+	{% assign colindex = memberindex | modulo: 3 %}
+	{% if colindex == 1 %} <!-- opening of a new row -->
+	<div class="row">
+	{% endif %}
+	<div class="col-md-4 memberbox">
+		<div class="media">
+				<a class="pull-left" href="{{ member.url }}">
+				<img class="media-object member-photo" src="{{ member.image }}">
+				</a>
+			 	<div class="media-body">
+				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+				<p class="note">{{ member.position }}</p>
+				{% if member.visitor == true %}
+				<p class="note">Visitor from {{ member.homeinst }}</p>
+				{% endif %}
+				<p class="note">{{ member.thesis }}</p>
+				</div>
+		</div>
+    </div>	  
+	{% if colindex == 0 %} <!-- closing a row -->
+	</div><div class="bigspacer"></div>
+	{% endif %}
+{% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
+
+<!--div class="row">
+	<div class="col-md-12">
+		<img class="team-photo" src="/assets/images/team/drummond-lab-20190920.jpg"/>
+	</div>
+</div-->
+
+<div class="bigspacer"></div>
+<hr/>
+<div class="bigtitle text-center">Alumni</div>
+<div class="bigspacer"></div>
+
+{% assign alumni = site.categories.team | where: "alum","true" | where: "position","PhD"%}
+{% assign memberindex = 0 %}
+{% for member in alumni %}
+	{% assign memberindex = memberindex | plus: 1 %}
+	{% assign colindex = memberindex | modulo: 3 %}
+	{% if colindex == 1 %} <!-- opening of a new row -->
+	<div class="row">
+	{% endif %}
+	<div class="col-md-4 memberbox">
+		<div class="media">
+				<a class="pull-left" href="{{ member.url }}">
+				<img class="media-object member-photo" src="{{ member.image }}">
+				</a>
+			 	<div class="media-body">
+				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+				<p class="note">{{ member.position }}</p>
+				<p class="note">{{ member.thesis }}</p>
+				</div>
+		</div>
+    </div>	  
+	{% if colindex == 0 %} <!-- closing a row -->
+	</div><div class="bigspacer"></div>
+	{% endif %}
+{% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
+<div class="bigspacer"></div>
+
+<h3>Master Students</h3>
+<ul>
+	<li><b>Finn Sherry</b>, "Self-healing of comb polymer vitrimers" (2023), <a href="/assets/pdfs/master/Finn_Sherry_MSc_Graduation_Final_with_links.pdf">[PDF]</a></li>
+	<li><b>Quinten van Wanrooij</b>, "Optimization of Multilevel ∆-Quantum Machine Learning Based on Neural Networks" (2022), <a href="/assets/pdfs/master/Wanrooij_Q.pdf">[PDF]</a></li>
+	<li><b>Robin Persoons</b>, "Using the Variational Quantum Eigensolver to go from Hartree-Fock to Full Configuration Interaction using a Hartree-Fock Superposition method on the H2O molecule" (2021), <a href="/assets/pdfs/master/0903095_Persoons_R.D.L._MSc_thesis_MAP.pdf">[PDF]</a></li>
+	<li><b>Ruben Gerritsen</b>, "Multiscale Modelling of Transient Absorption in Disordered Organic Molecular Systems" (2020), <a href="/assets/pdfs/master/Gerritsen_R..pdf">[PDF]</a></li>
+	<li><b>Julian Zeller</b>, "Evaluation of the Self-Consistent Sternheimer Method in a Localized Basis" (2020), <a href="/assets/pdfs/master/Zeller_J..pdf">[PDF]</a></li>
+	<li><b>Javier Sijen</b>, "Self-Energy and Self-Consistency Within Many-Body Perturbation Theory" (2020), <a href="/assets/pdfs/master/Sijen_J.pdf">[PDF]</a></li>
+</ul>
+
+
+<h3>Bachelor Students</h3>
+<ul>
+	<li><b>Thomas Gijsbers</b>, "The Effect of Electrode Extended KMC Simulations for Disordered Organic Semiconductors" (2024)</li>
+	<li><b>Thijs Vernooij</b>, "Creation of a Nudged Elastic Band method to determine the activation energy using least-energy reaction paths" (2024), <a href="/assets/pdfs/bachelor/BEP_Vernooij.pdf">[PDF]</a></li>
+	<li><b>Marijn Koot</b>, "Numerical optimization methods applied to molecular geometries" (2023), <a href="/assets/pdfs/bachelor/Marijn_BEP.pdf">[PDF]</a></li>
+	<li><b>Nakshatra Rishi</b>, "Metadynamics: Exploring Potential Energy Landscapes through Langevin Dynamics with the Milstein Scheme" (2023), <a href="/assets/pdfs/bachelor/BEP___Nakshatra___Final_Version.pdf">[PDF]</a></li>
+	<li><b>Anne-Wil van den Heuvel</b>, "Automated methods for multiscale modeling" (2023), <a href="/assets/pdfs/bachelor/BEP_AWvdH.pdf">[PDF]</a></li>
+	<li><b>Rogier Venderbosch</b>, "Analysis of a generalised local-density approximation in density-functional theory" (2022), <a href="/assets/pdfs/bachelor/Thesis_BTW_Venderbosch.pdf">[PDF]</a></li>
+	<li><b>Allard van Belois</b>, "KMC modelling of light induced halide segregation in perovskite solar cells" (2021), <a href="/assets/pdfs/bachelor/Belois.pdf">[PDF]</a></li>
+	<li><b>Bram Luttik</b>, "An Introductory Mathematical Overview of the Schrödinger Model of Quantum Mechanics" (2021), <a href="/assets/pdfs/bachelor/Luttik.pdf">[PDF]</a></li>
+	<li><b>Lieke Verhoeven</b>, "Coarse-graining of density functional theory" (2019), <a href="/assets/pdfs/bachelor/BEP.Lieke.Verhoeven.pdf">[PDF]</a></li>
+	<li><b>Marleen Rozen</b>, "Numerical simulation of single-carrier electron dynamics using a master-equation" (2019), <a href="/assets/pdfs/bachelor/Numerical_simulation_of_Single_Carrier_Electron_Dynamics_Using_a_Master_Equation._Marleen.Roozen.pdf">[PDF]</a></li>
+	<li><b>Rutger Biezemans</b>, "Mathematical analysis of generalized mode-coupling theory and numerical exploration of super-strong glass formation" (2018), <a href="/assets/pdfs/bachelor/BEP_MCT_Rutger_Biezemans.pdf">[PDF]</a></li>
+</ul>
+
