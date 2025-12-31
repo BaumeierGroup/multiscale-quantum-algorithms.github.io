@@ -1,20 +1,11 @@
 {% if site.JB.sharing.provider and page.sharing != false %}
-
-  {% case site.JB.sharing.provider %}
-	{% when 'like' %}
-  		{% include JB/sharing-providers/facebook %}
-	{% when 'tweet' %}
-  		{% include JB/sharing-providers/twitter %}
-	{% when 'bluesky' %}
-  		{% include JB/sharing-providers/bluesky %}
-	{% when 'plusone' %}
-  		{% include JB/sharing-providers/googleplus %}
-	{% when 'linkedin' %}
-  		{% include JB/sharing-providers/linkedin %}
-	{% when 'hn' %}
-  		{% include JB/sharing-providers/hn %}
-	{% when 'all' %}
-  		{% include JB/sharing-providers/global %}
-  {% endcase %}
-
+ 
+  {% if site.JB.sharing.provider contains "bluesky" %}
+  	{% include JB/sharing-providers/bluesky %}
+  {% endif %}
+  {% if site.JB.sharing.provider contains "twitter" %}
+  	{% include JB/sharing-providers/twitter %}
+  {% endif %}
+  
+ 
 {% endif %}
