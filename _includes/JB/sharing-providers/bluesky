@@ -1,3 +1,11 @@
-<!-- Twitter -->
-<i class="fa fa-twitter fa-fw"></i>
-<a class="off" href="https://twitter.com/share?url={{ site.JB.sharing.twitter.via }}&text={{ page.shorttitle }}" data-text="{{ page.title }}" data-via="{{ site.JB.sharing.twitter.via }}" data-related="{{ site.author.twitter }}" target="_blank">tweet</a>
+<!-- Bluesky -->
+<div>
+	<i class="fa fa-twitter"></i>
+	<a class="off" href="https://bsky.app/intent/compose?text={{ page.title }} {{ page.url | absolute_url }}" target="_blank">post this page</a>
+</div>
+{% if page.fulltext %}
+	<div>
+		<i class="fa fa-twitter"></i>
+		<a class="off" href="https://bsky.app/intent/compose?text=Check out this paper! {{ page.fulltext }}" target="_blank">post paper</a>
+	</div>
+{% endif %}
