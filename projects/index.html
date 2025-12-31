@@ -11,27 +11,25 @@ navorder: 1
   <hr/>
 Understanding and simulating quantum molecular systems is central to materials design, energy conversion, and chemical processes. Our work advances algorithmic foundations that make accurate and scalable quantum simulations feasible — with implications for both fundamental science and emerging technologies.  <hr/>
 </div>
+
 {% for project in site.categories.projects %}
-<div class='row'>
-  <!--
-  <div class='row'>
-    <div class='col-md-12'>
-    <div class="media">
-      <a class="project-image" href="{{ project.url }}">
-        <img class="media-object" src="{{ project.image }}">
-      </a>
-    </div>
-  </div>
-  -->
-  <div class='row'>
-    <div class="col-md-4 paperbox">
-      <div class="smallhead media-heading"><a href="{{ project.url }}" class="off">{{ project.title }}</a></div>
-    </div>
-    <div class='col-md-8'>
-      {{ project.content }}
-    </div>
-  </div>
-</div>
+<div class="row">
+		<div class="col-md-3">
+			<div class="head">
+				{{ project.title }}
+			</div>	
+		</div>
+		<div class="col-md-8">		
+			<div style="height:5px;"></div>			
+			{% if project.image %}
+			<a href="{{ project.url }}"><img class="offset" src="{{ project.image }}"></a>
+			{% endif %}
+			<div class="project">
+				{{ project.content }}
+			</div>
+		</div>			
+		<div class="col-md-1"></div>
+	</div>		
 {% endfor %}
 
 <div class="bigspacer"></div>
