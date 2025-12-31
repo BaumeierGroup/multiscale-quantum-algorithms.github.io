@@ -135,7 +135,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-   provider : "bluesky linkedin"
+   provider : bluesky
    bluesky :
    twitter :
      size :
