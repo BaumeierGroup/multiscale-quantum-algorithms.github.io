@@ -25,7 +25,7 @@ author :
   name : B. Baumeier
   email : b.baumeier@tue.nl
   github : baumeier
-#  twitter : treeeggs
+  bluesky : 
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -135,7 +135,8 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-   provider : tweet
+   provider : tweet bluesky
+   bluesky :
    twitter :
      size :
      via :
