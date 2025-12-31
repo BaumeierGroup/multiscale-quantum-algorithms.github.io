@@ -53,14 +53,14 @@
 		</div>		
 		<div class="bigspacer"></div>		
 		{% endif %}	  		
-		{% if member.twitter %}		
+		{% if member.bluesky %}		
 		<div class="smallhead">
-			Twitter
+			Bluesky
 		</div>	
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-twitter fa-fw"></i>
-			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
+			<i class="fa-brands fa-bluesky"></i>
+			<a class="off" href="https://bsky.app/profile/{{ member.bluesky }}.bsky.social">{{ member.bluesky }}</a>
 		</div>		
 		<div class="bigspacer"></div>				
 		{% endif %}	
