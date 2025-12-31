@@ -5,7 +5,7 @@ position: Associate Professor
 nickname: Bjoern
 handle: baumeier
 email: b.baumeier@tue.nl
-#twitter: treeeggs
+bluesky: treeeggs
 github: baumeier
 scholar: qMmbzsoAAAAJ
 image: /assets/images/team/b-baumeier-2022.jpg
