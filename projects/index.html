@@ -13,7 +13,13 @@ Understanding and simulating quantum molecular systems is central to materials d
 </div>
 
 {% for project in site.categories.projects %}
-
+<div class="row">
+	<div class="col-md-12">
+		<div class="smallhead">
+			{{ project.content }}
+		</div>
+	</div>				
+</div>
 
 <div class='row'>
   <!--
@@ -26,7 +32,7 @@ Understanding and simulating quantum molecular systems is central to materials d
     </div>
   </div>
   -->
-  <div class='row'>
+  <!--div class='row'>
     <div class="col-md-4 paperbox">
       <div class="smallhead media-heading"><a href="{{ project.url }}" class="off">{{ project.title }}</a></div>
     </div>
@@ -34,7 +40,7 @@ Understanding and simulating quantum molecular systems is central to materials d
       {{ project.content }}
     </div>
   </div>
-</div>
+</div-->
 {% endfor %}
 
 <div class="bigspacer"></div>
