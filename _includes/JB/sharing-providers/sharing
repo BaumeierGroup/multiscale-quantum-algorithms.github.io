@@ -1,5 +1,7 @@
 {% if site.JB.sharing.provider and page.sharing != false %}
- 
+   	{% include JB/sharing-providers/bluesky %}
+  	{% include JB/sharing-providers/twitter %}
+
   {% if site.JB.sharing.provider contains "bluesky" %}
   	{% include JB/sharing-providers/bluesky %}
   {% endif %}
