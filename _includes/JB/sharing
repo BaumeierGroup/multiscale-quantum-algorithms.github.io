@@ -3,8 +3,8 @@
   {% if site.JB.sharing.provider contains "bluesky" %}
   	{% include JB/sharing-providers/bluesky %}
   {% endif %}
-  {% if site.JB.sharing.provider contains "twitter" %}
-  	{% include JB/sharing-providers/twitter %}
+  {% if site.JB.sharing.provider contains "linkedin" %}
+  	{% include JB/sharing-providers/linkedin %}
   {% endif %}
   
  
