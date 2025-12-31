@@ -1,15 +1,5 @@
-{% if site.JB.sharing.provider and page.sharing != false %}
-   	{% include JB/sharing-providers/bluesky %}
-  	{% include JB/sharing-providers/twitter %}
-
-  {% if site.JB.sharing.provider contains "bluesky" %}
-  	{% include JB/sharing-providers/bluesky %}
-  {% endif %}
-  {% if site.JB.sharing.provider contains "twitter" %}
-  	{% include JB/sharing-providers/twitter %}
-  {% endif %}
-  
- 
-
-
-{% endif %}
+<!-- Bluesky -->
+<div>
+	<i class="fa-brands fa-bluesky"></i>
+	<a class="off" href="https://bsky.app/intent/compose?text={{ page.title }} {{ page.url | absolute_url }}" target="_blank">post on Bluesky</a>
+</div>
