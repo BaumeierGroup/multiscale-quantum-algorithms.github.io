@@ -9,7 +9,8 @@ volume: 126
 issue: 38
 pages: 7445 
 authors: "Vivek Sundaram, Alexey V. Lyulin, Bjoern Baumeier"
-image: /assets/images/papers/solvent-evaporation-thumbnail.svg
+image: /assets/images/papers/solvent-evaporation-thumbnail.png
+svgimage: /assets/images/papers/solvent-evaporation-thumbnail.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.jpcb.2c04609
 pdflink: /assets/pdfs/sundaram-etal-solvent-evaporation-2022.pdf

@@ -9,7 +9,8 @@ volume:
 issue: 
 pages: 103301 
 authors: "Rutger A. Biezemans, Simone Ciarella, Onur Caylak, Bjoern Baumeier, Liesbeth M. C. Janssen"
-image: /assets/images/papers/glassy-dynamics.svg
+image: /assets/images/papers/glassy-dynamics.png
+svgimage: /assets/images/papers/glassy-dynamics.svg
 redirect_from: 
 fulltext: https://iopscience.iop.org/article/10.1088/1742-5468/abb6e1
 pdflink: /assets/pdfs/biezemans-glassy-dynamics-2020.pdf

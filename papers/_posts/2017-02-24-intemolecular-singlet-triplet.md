@@ -9,7 +9,8 @@ volume: 13
 issue: 14
 pages: 1584 
 authors: "Jens Wehner and Björn Baumeier"
-image: /assets/images/papers/wehner-intermolecular-singlet-triplet.svg
+image: /assets/images/papers/wehner-intermolecular-singlet-triplet.png
+svgimage: /assets/images/papers/wehner-intermolecular-singlet-triplet.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.jctc.6b00935
 pdflink: assets/pdfs/wehner-electronic-excitations-votca-xtp.pdf

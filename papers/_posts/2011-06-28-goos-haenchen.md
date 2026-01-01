@@ -9,7 +9,8 @@ volume: 19
 issue: 16
 pages: 15482 
 authors: "Felix Huerkamp, Tamara A. Leskova, Alexei A. Maradudin, and Björn Baumeier"
-image: /assets/images/papers/goos-haenchen.svg
+image: /assets/images/papers/goos-haenchen.png
+svgimage: /assets/images/papers/goos-haenchen.svg
 redirect_from: 
 fulltext: https://opg.optica.org/oe/fulltext.cfm?uri=oe-19-16-15483&id=221154
 pdflink: /assets/pdfs/oe-19-16-15483.pdf

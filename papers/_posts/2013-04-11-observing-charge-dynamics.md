@@ -9,7 +9,8 @@ volume: 117
 issue: 18
 pages: 9171 
 authors: "Michael Meister, Björn Baumeier, Neil Pschirer, Rüdiger Sens, Ingmar Bruder, Frédéric Laquai, Denis Andrienko, and Ian A. Howard"
-image: /assets/images/papers/observing-charge-dynamics.svg
+image: /assets/images/papers/observing-charge-dynamics.png
+svgimage: /assets/images/papers/observing-charge-dynamics.svg
 redirect_from: 
 fulltext: hhttps://pubs.acs.org/doi/abs/10.1021/jp403268c
 pdflink: 

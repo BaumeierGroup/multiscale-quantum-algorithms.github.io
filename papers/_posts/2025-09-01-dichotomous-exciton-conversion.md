@@ -9,7 +9,8 @@ volume:
 issue: 
 pages:  
 authors: "Vivek Sundaram and Bjoern Baumeier"
-image: /assets/images/papers/dichotomous-exciton-conversion-2025.svg
+image: /assets/images/papers/dichotomous-exciton-conversion-2025.png
+svgimage: /assets/images/papers/dichotomous-exciton-conversion-2025.svg
 redirect_from: 
 fulltext: https://chemrxiv.org/engage/chemrxiv/article-details/68bff5049008f1a4675dfb96
 pdflink: /assets/pdfs/sundaram-dichotomous-2025.pdf

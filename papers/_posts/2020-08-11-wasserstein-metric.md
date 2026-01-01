@@ -9,7 +9,8 @@ volume: 1
 issue: 3
 pages: 03LT01 
 authors: "Onur Caylak, Bjoern Baumeier, O. Anatole von Lilienfeld"
-image: /assets/images/papers/wasserstein-metric.svg
+image: /assets/images/papers/wasserstein-metric.png
+svgimage: /assets/images/papers/wasserstein-metric.svg
 redirect_from: 
 fulltext: https://iopscience.iop.org/article/10.1088/2632-2153/aba048
 pdflink: /assets/pdfs/caylak-baumeier-lilienfeld-wasserstein-metric-2020.pdf

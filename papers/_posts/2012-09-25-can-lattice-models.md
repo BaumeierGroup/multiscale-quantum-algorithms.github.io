@@ -9,7 +9,8 @@ volume: 109
 issue: 13
 pages: 136401 
 authors: "Falk May, Björn Baumeier, Christian Lennartz, and Denis Andrienko"
-image: /assets/images/papers/can-lattice-models.svg
+image: /assets/images/papers/can-lattice-models.png
+svgimage: /assets/images/papers/can-lattice-models.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.136401
 pdflink: 

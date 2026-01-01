@@ -9,7 +9,8 @@ volume: 77
 issue: 8
 pages: 085329 
 authors: "Peter Krüger, Björn Baumeier, and Johannes Pollmann"
-image: /assets/images/papers/epitaxial-oxynitride.svg
+image: /assets/images/papers/epitaxial-oxynitride.png
+svgimage: /assets/images/papers/epitaxial-oxynitride.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.085329
 pdflink: 

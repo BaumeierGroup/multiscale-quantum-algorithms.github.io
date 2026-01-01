@@ -9,7 +9,8 @@ volume:
 issue: 
 pages:  
 authors: "Bjoern Baumeier, Onur Caylak, Carlo Mercuri, Mark Peletier, Georg Prokert, Wouter Scharpach"
-image: /assets/images/papers/scharpach-local-2024.svg
+image: /assets/images/papers/scharpach-local-2024.png
+svgimage: /assets/images/papers/scharpach-local-2024.svg
 redirect_from: 
 fulltext: https://www.sciencedirect.com/science/article/pii/S0022247X24006103
 pdflink: /assets/pdfs/scharpach-local-2024.pdf

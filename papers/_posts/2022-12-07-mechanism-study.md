@@ -9,7 +9,8 @@ volume: 132
 issue: 21
 pages: 215104 
 authors: "Haoxiang Zhao, Haibao Mu, Daning Zhang, Björn Baumeier, Huanmin Yao, Guangzhi Guo, Guanjun Zhang"
-image: /assets/images/papers/mechanism-study.svg
+image: /assets/images/papers/mechanism-study.png
+svgimage: /assets/images/papers/mechanism-study.svg
 redirect_from: 
 fulltext: https://pubs.aip.org/aip/jap/article-abstract/132/21/215104/2837927/Mechanism-study-of-the-conductivity
 pdflink: 

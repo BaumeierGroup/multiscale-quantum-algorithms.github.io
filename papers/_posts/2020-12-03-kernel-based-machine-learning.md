@@ -9,7 +9,8 @@ volume:
 issue: 
 pages:  
 authors: "Gianluca Tirimbo, Onur Caylak, Bjoern Baumeier"
-image: /assets/images/papers/kernel-based-machine-learning.svg
+image: /assets/images/papers/kernel-based-machine-learning.png
+svgimage: /assets/images/papers/kernel-based-machine-learning.svg
 redirect_from: 
 fulltext: https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_40.pdf
 pdflink: /assets/pdfs/tirimbo-caylak-baumeier-kernel-based-machine-learning-2020.pdf

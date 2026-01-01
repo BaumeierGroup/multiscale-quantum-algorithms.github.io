@@ -10,7 +10,8 @@ volume: 75
 issue: 4
 pages: 045323 
 authors: "Björn Baumeier, Peter Krüger, and Johannes Pollmann"
-image: /assets/images/papers/BeO-surface.svg
+image: /assets/images/papers/BeO-surface.png
+svgimage: /assets/images/papers/BeO-surface.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.75.045323
 pdflink: 

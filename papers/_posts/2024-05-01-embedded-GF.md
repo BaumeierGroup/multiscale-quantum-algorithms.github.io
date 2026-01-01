@@ -9,7 +9,8 @@ volume: 14
 issue: 
 pages:  e1734
 authors: "Gianluca Tirimbo, Vivek Sundaram, Bjoern Baumeier"
-image: /assets/images/papers/embeddedGF.svg
+image: /assets/images/papers/embeddedGF.png
+svgimage: /assets/images/papers/embeddedGF.svg
 redirect_from: 
 fulltext: https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1734
 pdflink: /assets/pdfs/embeddedGF-2024.pdf

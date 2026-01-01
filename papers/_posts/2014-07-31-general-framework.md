@@ -9,7 +9,8 @@ volume: 12
 issue: 3
 pages: 1108 
 authors: "Ole Stenzel, Christian Hirsch, Tim Brereton, Bjoern Baumeier, Denis Andrienko, Dirk Kroese, and Volker Schmidt"
-image: /assets/images/papers/general-framework.svg
+image: /assets/images/papers/general-framework.png
+svgimage: /assets/images/papers/general-framework.svg
 redirect_from: 
 fulltext: https://epubs.siam.org/doi/10.1137/130942504
 pdflink: 

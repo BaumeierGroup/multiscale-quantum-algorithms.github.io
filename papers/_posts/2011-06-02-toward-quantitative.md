@@ -9,7 +9,8 @@ volume: 7
 issue: 8
 pages: 2549 
 authors: "Milind Misra, Denis Andrienko, Björn Baumeier, Jean-Loup Faulon, and O. Anatole von Lilienfeld"
-image: /assets/images/papers/toward-quantitative.svg
+image: /assets/images/papers/toward-quantitative.png
+svgimage: /assets/images/papers/toward-quantitative.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/abs/10.1021/ct200231z
 pdflink: 

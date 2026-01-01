@@ -9,7 +9,8 @@ volume: 52
 issue: 8
 pages: 3049 
 authors: "René P. M. Lafleur, Sandra M. C. Schoenmakers, Pranav Madhikar, Davide Bochicchio, Björn Baumeier, Anja R. A. Palmans, Giovanni M. Pavan, and E. W. Meijer"
-image: /assets/images/papers/lafleur-insights-kinetics.svg
+image: /assets/images/papers/lafleur-insights-kinetics.png
+svgimage: /assets/images/papers/lafleur-insights-kinetics.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.macromol.9b00300
 pdflink: /assets/pdfs/lafleur-insights-kinetics.pdf

@@ -9,7 +9,8 @@ volume: 124
 issue: 13
 pages: 2643 
 authors: "Swapnil Baral, Matthew Phillips, Han Yan, Joseph Avenso, Lars Gundlach, Bjoern Baumeier, Edward Lyman"
-image: /assets/images/papers/ultrafast-formation-charge-transfer.svg
+image: /assets/images/papers/ultrafast-formation-charge-transfer.png
+svgimage: /assets/images/papers/ultrafast-formation-charge-transfer.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/full/10.1021/acs.jpcb.0c00121
 pdflink: 

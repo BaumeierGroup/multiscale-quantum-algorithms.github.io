@@ -9,7 +9,8 @@ volume: 22
 issue: 2
 pages: 10971 
 authors: "Björn Baumeier, Falk May, Christian Lennartz, Denis Andrienko"
-image: /assets/images/papers/challenges.svg
+image: /assets/images/papers/challenges.png
+svgimage: /assets/images/papers/challenges.svg
 redirect_from: 
 fulltext: https://pubs.rsc.org/en/content/articlelanding/2012/jm/c2jm30182b
 pdflink: 

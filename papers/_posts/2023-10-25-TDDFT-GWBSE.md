@@ -9,7 +9,8 @@ volume: 4
 issue: 
 pages: 84-115 
 authors: "Wouter Scharpach, Zhongquan Chen, Vivek Sundaram, Björn Baumeier"
-image: /assets/images/papers/TDDFT-GWBSE.svg
+image: /assets/images/papers/TDDFT-GWBSE.png
+svgimage: /assets/images/papers/TDDFT-GWBSE.svg
 redirect_from: 
 fulltext: https://www.sciencedirect.com/science/article/pii/B9780128219782000222
 pdflink: 

@@ -9,7 +9,8 @@ volume: 225
 issue: 
 pages: 1743 
 authors: "Behnaz Bagheri, Mikko Karttunen, Björn Baumeier"
-image: /assets/images/papers/bagheri-solvent-effects-optical-excitations.svg
+image: /assets/images/papers/bagheri-solvent-effects-optical-excitations.png
+svgimage: /assets/images/papers/bagheri-solvent-effects-optical-excitations.svg
 redirect_from: 
 fulltext: https://link.springer.com/article/10.1140/epjst/e2016-60144-5
 pdflink: 

@@ -9,7 +9,8 @@ volume: 129
 issue: 17
 pages:  4216
 authors: "Haoxiang Zhao, Lixuan An, Daning Zhang, Xiong Yang, Huanmin Yao, Guanjun Zhang, Haibao Mu, Björn Baumeier"
-image: /assets/images/papers/synergistic-interface-effects.svg
+image: /assets/images/papers/synergistic-interface-effects.png
+svgimage: /assets/images/papers/synergistic-interface-effects.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.jpcb.4c08661
 pdflink: /assets/pdfs/zhao-synergistic-interface-effects-2024.pdf

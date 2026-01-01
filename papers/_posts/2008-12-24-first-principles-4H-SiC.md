@@ -10,7 +10,8 @@ volume: 78
 issue: 24
 pages: 245318 
 authors: "Björn Baumeier, Peter Krüger, and Johannes Pollmann"
-image: /assets/images/papers/first-principles-4H-SiC.svg
+image: /assets/images/papers/first-principles-4H-SiC.png
+svgimage: /assets/images/papers/first-principles-4H-SiC.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.245318
 pdflink: 

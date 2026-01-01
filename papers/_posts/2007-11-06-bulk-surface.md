@@ -9,7 +9,8 @@ volume: 76
 issue: 20
 pages: 205404 
 authors: "Björn Baumeier, Peter Krüger, and Johannes Pollmann"
-image: /assets/images/papers/bulk-surface.svg
+image: /assets/images/papers/bulk-surface.png
+svgimage: /assets/images/papers/bulk-surface.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.205404
 pdflink: 

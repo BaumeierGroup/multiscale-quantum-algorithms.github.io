@@ -9,7 +9,8 @@ volume: 17
 issue: 2
 pages: 879 
 authors: "Onur Caylak, Bjoern Baumeier"
-image: /assets/images/papers/excited-state-geometry-optimization.svg
+image: /assets/images/papers/excited-state-geometry-optimization.png
+svgimage: /assets/images/papers/excited-state-geometry-optimization.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.jctc.0c01099
 pdflink: /assets/pdfs/caylak-baumeier-excited-state-geometry-optimization-2021.pdf

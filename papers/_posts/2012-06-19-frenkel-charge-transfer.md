@@ -9,7 +9,8 @@ volume: 8
 issue: 8
 pages: 2790 
 authors: "Björn Baumeier, Denis Andrienko, Michael Rohlfing"
-image: /assets/images/papers/frenkel-charge-transfer.svg
+image: /assets/images/papers/frenkel-charge-transfer.png
+svgimage: /assets/images/papers/frenkel-charge-transfer.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/ct300311x
 pdflink: 

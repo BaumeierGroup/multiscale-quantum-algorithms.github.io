@@ -9,7 +9,8 @@ volume: 103
 issue: 24
 pages: 246803 
 authors: "Björn Baumeier, Tamara A. Leskova, and Alexei A. Maradudin"
-image: /assets/images/papers/cloaking-spp.svg
+image: /assets/images/papers/cloaking-spp.png
+svgimage: /assets/images/papers/cloaking-spp.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.246803
 pdflink: 

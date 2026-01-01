@@ -9,7 +9,8 @@ volume: 101
 issue: 3
 pages: 035402 
 authors: "Gianluca Tirimbo, Xander de Vries, Christ H. L. Weijtens, Peter A. Bobbert, Tobias Neumann, Reinder Coehoorn, Bjoern Baumeier"
-image: /assets/images/papers/quantitative-predictions-photoelectron-spectra.svg
+image: /assets/images/papers/quantitative-predictions-photoelectron-spectra.png
+svgimage: /assets/images/papers/quantitative-predictions-photoelectron-spectra.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.035402
 pdflink: 

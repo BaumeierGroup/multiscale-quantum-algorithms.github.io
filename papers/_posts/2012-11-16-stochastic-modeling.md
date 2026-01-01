@@ -9,7 +9,8 @@ volume: 86
 issue: 18
 pages: 184202 
 authors: "Björn Baumeier, Ole Stenzel, Carl Poelking, Denis Andrienko, and Volker Schmidt"
-image: /assets/images/papers/stochastic-modeling.svg
+image: /assets/images/papers/stochastic-modeling.png
+svgimage: /assets/images/papers/stochastic-modeling.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.184202
 pdflink: 

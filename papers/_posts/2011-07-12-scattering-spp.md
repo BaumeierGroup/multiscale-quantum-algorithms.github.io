@@ -9,7 +9,8 @@ volume: 84
 issue: 1
 pages: 013810 
 authors: "Björn Baumeier, Felix Huerkamp, Tamara A. Leskova, and Alexei A. Maradudin"
-image: /assets/images/papers/scattering-spp.svg
+image: /assets/images/papers/scattering-spp.png
+svgimage: /assets/images/papers/scattering-spp.svg
 redirect_from: 
 fulltext: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.84.013810
 pdflink: 

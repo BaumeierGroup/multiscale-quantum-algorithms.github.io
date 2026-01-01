@@ -9,7 +9,8 @@ volume: 14
 issue: 12
 pages: 6253 
 authors: "Jens Wehner, Lothar Brombacher, Joshua Brown, Christoph Junghans, Onur Çaylak, Yuriy Khalak, Pranav Madhikar, Gianluca Tirimbò, and Björn Baumeier"
-image: /assets/images/papers/wehner-electronic-excitations-votca-xtp.svg
+image: /assets/images/papers/wehner-electronic-excitations-votca-xtp.png
+svgimage: /assets/images/papers/wehner-electronic-excitations-votca-xtp.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.jctc.8b00617
 pdflink: assets/pdfs/wehner-electronic-excitations-votca-xtp.pdf

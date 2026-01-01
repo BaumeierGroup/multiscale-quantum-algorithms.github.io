@@ -9,7 +9,8 @@ volume: 10
 issue: 8
 pages: 3104 
 authors: "Björn Baumeier, Denis Andrienko, Michael Rohlfing"
-image: /assets/images/papers/excitations-push-pull.svg
+image: /assets/images/papers/excitations-push-pull.png
+svgimage: /assets/images/papers/excitations-push-pull.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/ct500479f
 pdflink: 

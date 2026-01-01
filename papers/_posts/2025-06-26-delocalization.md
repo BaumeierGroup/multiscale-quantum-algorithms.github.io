@@ -9,7 +9,8 @@ volume:
 issue: 
 pages:  
 authors: "Qing Zhou, Shiwei Ren, Bjoern Baumeier, Zhengran Yi, Yan Zhao, Yunqi Liu"
-image: /assets/images/papers/zhou-delocalization-2025.svg
+image: /assets/images/papers/zhou-delocalization-2025.png
+svgimage: /assets/images/papers/zhou-delocalization-2025.svg
 redirect_from: 
 fulltext: 
 pdflink: 

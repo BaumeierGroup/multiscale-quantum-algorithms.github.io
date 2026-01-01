@@ -9,7 +9,8 @@ volume: 22
 issue: 
 pages: 033033 
 authors: "Jens Wehner, Bjoern Baumeier"
-image: /assets/images/papers/multiscale-singlet-triplet-dynamics.svg
+image: /assets/images/papers/multiscale-singlet-triplet-dynamics.png
+svgimage: /assets/images/papers/multiscale-singlet-triplet-dynamics.svg
 redirect_from: 
 fulltext: https://iopscience.iop.org/article/10.1088/1367-2630/ab7a04/meta
 pdflink: /assets/pdfs/wehner-baumeier-multiscale-singlet-triplet-dynamics.pdf

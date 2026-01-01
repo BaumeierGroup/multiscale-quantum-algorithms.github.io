@@ -9,7 +9,8 @@ volume: 112
 issue: 
 pages:  224203
 authors: "Gianluca Tirimbo, O. Nagaoka, S. Fukushima, Clint van Hoesel, Hiroyuki Yoshida, Reinder Coehoorn, and Bjoern Baumeier"
-image: /assets/images/papers/tirimbo-electron-affinity-2025.svg
+image: /assets/images/papers/tirimbo-electron-affinity-2025.png
+svgimage: /assets/images/papers/tirimbo-electron-affinity-2025.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/6gh2-8lb8
 pdflink: /assets/pdfs/tirimbo-electron-affinity.pdf

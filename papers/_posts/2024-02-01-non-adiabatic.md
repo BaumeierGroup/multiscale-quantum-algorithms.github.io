@@ -9,7 +9,8 @@ volume:
 issue: 
 pages:  
 authors: "Gianluca Tirimbo, Bjoern Baumeier"
-image: /assets/images/papers/non-adiabatic.svg
+image: /assets/images/papers/non-adiabatic.png
+svgimage: /assets/images/papers/non-adiabatic.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.jctc.4c00142
 pdflink: /assets/pdfs/tirimbo-non-adiabatic-2024.pdf

@@ -9,7 +9,8 @@ volume: 18
 issue: 2
 pages: 150 
 authors: "Pranav Madhikar, Jan Astrom, Jan Westerholm, Bjoern Baumeier, Mikko Karttunen"
-image: /assets/images/papers/coarse-grained-modeling-cell-division.svg
+image: /assets/images/papers/coarse-grained-modeling-cell-division.png
+svgimage: /assets/images/papers/coarse-grained-modeling-cell-division.svg
 redirect_from: 
 fulltext: https://www.tandfonline.com/doi/full/10.1080/1539445X.2019.1706565
 pdflink: 

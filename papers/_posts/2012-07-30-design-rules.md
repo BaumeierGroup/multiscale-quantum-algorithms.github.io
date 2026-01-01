@@ -9,7 +9,8 @@ volume: 134
 issue: 33
 pages: 13818 
 authors: "Falk May, Mustapha Al-Helwi, Björn Baumeier, Wolfgang Kowalsky, Evelyn Fuchs, Christian Lennartz, and Denis Andrienko"
-image: /assets/images/papers/design-rules.svg
+image: /assets/images/papers/design-rules.png
+svgimage: /assets/images/papers/design-rules.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/ja305310r
 pdflink: 

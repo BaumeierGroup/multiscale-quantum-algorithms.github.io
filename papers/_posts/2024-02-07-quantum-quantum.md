@@ -9,7 +9,8 @@ volume: 20
 issue: 
 pages:  5451
 authors: "Vivek Sundaram, Bjoern Baumeier"
-image: /assets/images/papers/quantum-quantum.svg
+image: /assets/images/papers/quantum-quantum.png
+svgimage: /assets/images/papers/quantum-quantum.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00163
 pdflink: /assets/pdfs/sundaram-quantum-quantum-2024.pdf

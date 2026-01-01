@@ -9,7 +9,8 @@ volume: 14
 issue: 
 pages: 434 
 authors: "Carl Poelking, Max Tietze, Chris Elschner, Selina Olthof, Dirk Hertel, Björn Baumeier, Frank Würthner, Klaus Meerholz, Karl Leo, Denis Andrienko"
-image: /assets/images/papers/poelking-impact-mesoscale-01.svg
+image: /assets/images/papers/poelking-impact-mesoscale-01.png
+svgimage: /assets/images/papers/poelking-impact-mesoscale-01.svg
 redirect_from: 
 fulltext: https://www.nature.com/articles/nmat4167
 pdflink: 

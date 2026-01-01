@@ -9,7 +9,8 @@ volume: 132
 issue: 233
 pages: 11702 
 authors: "Thorsten Vehoff, Björn Baumeier, Alessandro Troisi, and Denis Andrienko"
-image: /assets/images/papers/charge-transport.svg
+image: /assets/images/papers/charge-transport.png
+svgimage: /assets/images/papers/charge-transport.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/ja104380c
 pdflink: 

@@ -9,7 +9,8 @@ volume: 7
 issue: 10
 pages: 3335 
 authors: "Victor Rühle, Alexander Lukyanov, Falk May, Manuel Schrader, Thorsten Vehoff, James Kirkpatrick, Björn Baumeier, and Denis Andrienko"
-image: /assets/images/papers/microscopic-simulations.svg
+image: /assets/images/papers/microscopic-simulations.png
+svgimage: /assets/images/papers/microscopic-simulations.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/ct200388s
 pdflink: /assets/pdfs/ct200388s.pdf

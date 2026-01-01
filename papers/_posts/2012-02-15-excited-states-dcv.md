@@ -9,7 +9,8 @@ volume: 8
 issue: 3
 pages: 997 
 authors: "Björn Baumeier, Denis Andrienko, Yuchen Ma, Michael Rohlfing"
-image: /assets/images/papers/excited-states-dcv.svg
+image: /assets/images/papers/excited-states-dcv.png
+svgimage: /assets/images/papers/excited-states-dcv.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/ct2008999
 pdflink: 

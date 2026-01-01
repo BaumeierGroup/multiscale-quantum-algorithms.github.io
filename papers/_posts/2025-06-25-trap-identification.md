@@ -9,7 +9,8 @@ volume: 111
 issue: 
 pages:  224209
 authors: "Zhongquan Chen, Pim van der Hoorn, Bjoern Baumeier"
-image: /assets/images/papers/trap-identification.svg
+image: /assets/images/papers/trap-identification.png
+svgimage: /assets/images/papers/trap-identification.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/shyl-kcfp
 pdflink: /assets/pdfs/chen-trap-identification-2024.pdf

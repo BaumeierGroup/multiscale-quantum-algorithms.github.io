@@ -9,7 +9,8 @@ volume: 112
 issue: 
 pages:  024202
 authors: "Zhongquan Chen, Pim van der Hoorn, Bjoern Baumeier"
-image: /assets/images/papers/uncertainty-quantification.svg
+image: /assets/images/papers/uncertainty-quantification.png
+svgimage: /assets/images/papers/uncertainty-quantification.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/2zz2-jchv
 pdflink: /assets/pdfs/chen-uncertainty-quantification-2025.pdf

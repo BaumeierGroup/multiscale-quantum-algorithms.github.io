@@ -9,7 +9,8 @@ volume: 149
 issue: 22
 pages: 224507 
 authors: "Yuriy Khalak, Björn Baumeier, Mikko Karttunen"
-image: /assets/images/papers/khalak-improved-five-point-model-water.svg
+image: /assets/images/papers/khalak-improved-five-point-model-water.png
+svgimage: /assets/images/papers/khalak-improved-five-point-model-water.svg
 redirect_from: 
 fulltext: https://aip.scitation.org/doi/full/10.1063/1.5070137
 pdflink: 

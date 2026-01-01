@@ -9,7 +9,8 @@ volume: 4
 issue: 2
 pages: 1300640 
 authors: "Ian A. Howard, Michael Meister, Björn Baumeier, Henrike Wonneberger, Neil Pschirer, Rüdiger Sens, Ingmar Bruder, Chen Li, Klaus Müllen, Denis Andrienko, Frédéric Laquai"
-image: /assets/images/papers/two-channels.svg
+image: /assets/images/papers/two-channels.png
+svgimage: /assets/images/papers/two-channels.svg
 redirect_from: 
 fulltext: https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201300640
 pdflink: 

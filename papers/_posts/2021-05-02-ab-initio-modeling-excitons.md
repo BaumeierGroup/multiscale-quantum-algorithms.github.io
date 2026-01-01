@@ -9,7 +9,8 @@ volume: 6
 issue: 1
 pages: 1912638 
 authors: "Gianluca Tirimbo, Bjoern Baumeier"
-image: /assets/images/papers/ab-initio-excitons.svg
+image: /assets/images/papers/ab-initio-excitons.png
+svgimage: /assets/images/papers/ab-initio-excitons.svg
 redirect_from: 
 fulltext: https://www.tandfonline.com/doi/full/10.1080/23746149.2021.1912638
 pdflink: /assets/pdfs/tirimbo-baumeier-ab-initio-excitons-2021.pdf

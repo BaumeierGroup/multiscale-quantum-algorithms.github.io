@@ -9,7 +9,8 @@ volume: 18
 issue: 14
 pages: 30297 
 authors: "Behnaz Bagheri, Björn Baumeier, Mikko Karttunen"
-image: /assets/images/papers/bagheri-getting-excited.svg
+image: /assets/images/papers/bagheri-getting-excited.png
+svgimage: /assets/images/papers/bagheri-getting-excited.svg
 redirect_from: 
 fulltext: https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp02944b
 pdflink: 

@@ -9,7 +9,8 @@ volume: 76
 issue: 8
 pages: 085407 
 authors: "Björn Baumeier, Peter Krüger, and Johannes Pollmann"
-image: /assets/images/papers/nanotubes.svg
+image: /assets/images/papers/nanotubes.png
+svgimage: /assets/images/papers/nanotubes.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.085407
 pdflink: 

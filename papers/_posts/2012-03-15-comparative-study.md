@@ -9,7 +9,8 @@ volume: 134
 issue: 13
 pages: 6052 
 authors: "Manuel Schrader, Roland Fitzner, Moritz Hein, Chris Elschner, Björn Baumeier, Karl Leo, Moritz Riede, Peter Bäuerle, and Denis Andrienko"
-image: /assets/images/papers/comparative-study.svg
+image: /assets/images/papers/comparative-study.png
+svgimage: /assets/images/papers/comparative-study.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/ja300851q
 pdflink: 

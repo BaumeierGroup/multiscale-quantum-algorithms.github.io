@@ -9,7 +9,8 @@ volume: 78
 issue: 12
 pages: 125111 
 authors: "Björn Baumeier, Peter Krüger, Johannes Pollmann, and Grigori V. Vajenine"
-image: /assets/images/papers/alkali-metal.svg
+image: /assets/images/papers/alkali-metal.png
+svgimage: /assets/images/papers/alkali-metal.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.125111
 pdflink: 

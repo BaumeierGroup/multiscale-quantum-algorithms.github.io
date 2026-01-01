@@ -9,7 +9,8 @@ volume: 16
 issue: 2
 pages: 465 
 authors: "Tim Brereton, Ole Stenzel, Björn Baumeier, Denis Andrienko, Volker Schmidt & Dirk Kroese "
-image: /assets/images/papers/efficient-simulation.svg
+image: /assets/images/papers/efficient-simulation.png
+svgimage: /assets/images/papers/efficient-simulation.svg
 redirect_from: 
 fulltext: https://link.springer.com/article/10.1007/s11009-013-9327-x
 pdflink: 

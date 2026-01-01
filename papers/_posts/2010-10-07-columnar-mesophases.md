@@ -9,7 +9,8 @@ volume: 133
 issue: 13
 pages: 134901 
 authors: "Thorsten Vehoff, Björn Baumeier, and Denis Andrienko"
-image: /assets/images/papers/columnar-mesophases.svg
+image: /assets/images/papers/columnar-mesophases.png
+svgimage: /assets/images/papers/columnar-mesophases.svg
 redirect_from: 
 fulltext: https://pubs.aip.org/aip/jcp/article-abstract/133/13/134901/922167/Charge-transport-in-columnar-mesophases-of
 pdflink: 

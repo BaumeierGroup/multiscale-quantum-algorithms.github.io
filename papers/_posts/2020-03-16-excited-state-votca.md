@@ -9,7 +9,8 @@ volume: 152
 issue: 11
 pages: 114103 
 authors: "Gianluca Tirimbo, Vivek Sundaram, Onur Caylak, Wouter Scharpach, Javier Sijen, Christoph Junghans, Joshua Brown, Felipe Zapata Ruiz, Nicolas Renaud, Jens Wehner, Bjoern Baumeier"
-image: /assets/images/papers/excited-state-votca.svg
+image: /assets/images/papers/excited-state-votca.png
+svgimage: /assets/images/papers/excited-state-votca.svg
 redirect_from: 
 fulltext: https://aip.scitation.org/doi/10.1063/1.5144277
 pdflink: 

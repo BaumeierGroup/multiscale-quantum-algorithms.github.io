@@ -9,7 +9,8 @@ volume: 17
 issue: 8
 pages: 4891 
 authors: "Onur Caylak, Bjoern Baumeier"
-image: /assets/images/papers/machine-learning-quasiparticle.svg
+image: /assets/images/papers/machine-learning-quasiparticle.png
+svgimage: /assets/images/papers/machine-learning-quasiparticle.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/full/10.1021/acs.jctc.1c00520
 pdflink: /assets/pdfs/caylak-baumeier-machine-learning-quasiparticle-2021.pdf

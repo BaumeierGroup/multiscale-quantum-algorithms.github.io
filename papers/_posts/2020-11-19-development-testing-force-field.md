@@ -9,7 +9,8 @@ volume: 124
 issue: 48
 pages: 11030 
 authors: "Vivek Sundaram, Alexey V. Lyulin, Bjoern Baumeier"
-image: /assets/images/papers/development-testing.svg
+image: /assets/images/papers/development-testing.png
+svgimage: /assets/images/papers/development-testing.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.jpcb.0c06787
 pdflink: /assets/pdfs/sundaram-lyulin-baumeier-development-testing-2020.pdf

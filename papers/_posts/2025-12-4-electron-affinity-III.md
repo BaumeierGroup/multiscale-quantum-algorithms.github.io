@@ -9,7 +9,8 @@ volume: 112
 issue: 
 pages:  224204
 authors: "E.J. de Jong, N.G. de Rooij, W.F.M. van Geel, C. Hauenstein, H. Tomita, G. Tirimbo, M. Berghuis, S. Fukushima, S. Gottardi, B. Baumeier, H. Yoshida, and R. Coehoorn"
-image: /assets/images/papers/deJong-electron-affinity-2025.svg
+image: /assets/images/papers/deJong-electron-affinity-2025.png
+svgimage: /assets/images/papers/deJong-electron-affinity-2025.svg
 redirect_from: 
 fulltext: https://journals.aps.org/prb/abstract/10.1103/kcl9-54vq
 pdflink: /assets/pdfs/deJong-electron-affinity.pdf

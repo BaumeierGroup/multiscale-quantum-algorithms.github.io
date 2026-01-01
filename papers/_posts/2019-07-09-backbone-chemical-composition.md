@@ -9,7 +9,8 @@ volume: 52
 issue: 14
 pages: 5307 
 authors: "Nancy C. Forero, Bjoern Baumeier, Kurt Kremer"
-image: /assets/images/papers/forero-backbone-chemical-composition.svg
+image: /assets/images/papers/forero-backbone-chemical-composition.png
+svgimage: /assets/images/papers/forero-backbone-chemical-composition.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/10.1021/acs.macromol.9b00819
 pdflink: /assets/pdfs/forero-backbone-chemical-composition.pdf

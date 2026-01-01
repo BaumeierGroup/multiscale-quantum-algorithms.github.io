@@ -9,7 +9,8 @@ volume: 10
 issue: 6
 pages: 2508 
 authors: "Pascal Kordt, Ole Stenzel, Björn Baumeier, Volker Schmidt, Denis Andrienko"
-image: /assets/images/papers/parametrization-extended-gaussian-disorder-models.svg
+image: /assets/images/papers/parametrization-extended-gaussian-disorder-models.png
+svgimage: /assets/images/papers/parametrization-extended-gaussian-disorder-models.svg
 redirect_from: 
 fulltext: https://pubs.acs.org/doi/abs/10.1021/ct500269r
 pdflink: 
