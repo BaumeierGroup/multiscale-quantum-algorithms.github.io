@@ -53,8 +53,8 @@ navorder: 5
 		</div>
 		<div class="col-md-8">		
 			<div style="height:5px;"></div>			
-			{% if post.image %}
-			<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
+			{% if post.svgimage %}
+			<a href="{{ post.url }}"><img class="offset" src="{{ post.svgimage }}"></a>
 			{% endif %}
 			<div class="post">
 				{{ post.description }}
