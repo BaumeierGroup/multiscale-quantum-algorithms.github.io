@@ -3,7 +3,7 @@ layout: news
 title: "Vivek obtains compute grant"
 author: "Bjoern Baumeier"
 author_handle: baumeier
-image: /assets/images/news/default-news.png
+image: 
 category: news
 tags: [paper, research, team]
 ---
