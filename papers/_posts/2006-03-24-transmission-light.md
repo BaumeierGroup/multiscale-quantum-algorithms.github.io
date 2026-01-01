@@ -9,7 +9,7 @@ volume: 8
 issue: 4
 pages: S191 
 authors: "Björn Baumeier, Tamara A. Leskova, and Alexei A. Maradudin"
-image: /assets/images/papers/transmission-light.svg
+svgimage: /assets/images/papers/transmission-light.svg
 redirect_from: 
 fulltext: https://iopscience.iop.org/article/10.1088/1464-4258/8/4/S20
 pdflink: 
