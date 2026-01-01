@@ -1,0 +1,11 @@
+{% if site.JB.sharing.provider and page.sharing != false %}
+ 
+  {% if site.JB.sharing.provider contains "bluesky" %}
+  	{% include JB/sharing-providers/bluesky-papers %}
+  {% endif %}
+  {% if site.JB.sharing.provider contains "linkedin" %}
+  	{% include JB/sharing-providers/linkedin-papers %}
+  {% endif %}
+  
+ 
+{% endif %}
