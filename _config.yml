@@ -25,7 +25,7 @@ author :
   name : B. Baumeier
   email : b.baumeier@tue.nl
   github : baumeier
-  bluesky : 
+  bluesky : treeeggs
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -169,3 +169,5 @@ JB :
 plugins_dir:
   - jekyll-redirect-from
   
+plugins:
+  - jekyll-seo-tag
