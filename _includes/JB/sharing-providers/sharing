@@ -6,7 +6,9 @@
   {% if site.JB.sharing.provider contains "twitter" %}
   	{% include JB/sharing-providers/twitter %}
   {% endif %}
-  
+  {% if site.JB.sharing.provider contains "facebook" %}
+  	{% include JB/sharing-providers/facbook %}
+  {% endif %}
  
 
 
