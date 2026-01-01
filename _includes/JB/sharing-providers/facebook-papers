@@ -1,0 +1,5 @@
+<!-- LinkedIn -->
+<div>
+	<i class="fa-brands fa-facebook"></i>
+	<a class="off" href="https://www.facebook.com/sharer/sharer.php?u={{ page.fulltext | absolute_url }}&title={{ page.title }}" target="_blank">on Facebook</a>
+</div>

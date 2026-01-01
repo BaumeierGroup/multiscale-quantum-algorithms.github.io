@@ -1,5 +1,5 @@
 <!-- LinkedIn -->
 <div>
 	<i class="fa-brands fa-linkedin"></i>
-	<a class="off" href="https://www.linkedin.com/shareArticle?url={{ page.fulltext | absolute_url }}&title={{ page.title }}" target="_blank">post on LinkedIn</a>
+	<a class="off" href="https://www.linkedin.com/shareArticle?url={{ page.fulltext | absolute_url }}&title={{ page.title }}" target="_blank">on LinkedIn</a>
 </div>

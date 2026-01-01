@@ -6,6 +6,8 @@
   {% if site.JB.sharing.provider contains "linkedin" %}
   	{% include JB/sharing-providers/linkedin-papers %}
   {% endif %}
-  
+  {% if site.JB.sharing.provider contains "facebook" %}
+  	{% include JB/sharing-providers/facebook-papers %}
+  {% endif %}
  
 {% endif %}

@@ -1,5 +1,5 @@
 <!-- Bluesky -->
 <div>
 	<i class="fa-brands fa-bluesky"></i>
-	<a class="off" href="https://bsky.app/intent/compose?text={{ page.title }} {{ page.url | absolute_url }}" target="_blank">post on Bluesky</a>
+	<a class="off" href="https://bsky.app/intent/compose?text={{ page.title }} {{ page.url | absolute_url }}" target="_blank">on Bluesky</a>
 </div>
