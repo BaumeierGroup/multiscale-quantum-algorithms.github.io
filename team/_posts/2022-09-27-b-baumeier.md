@@ -1,8 +1,8 @@
 ---
 layout: member
-title: "Bjorn Baumeier"
+title: "Björn Baumeier"
 position: Associate Professor
-nickname: Bjoern
+nickname: Björn
 handle: baumeier
 email: b.baumeier@tue.nl
 bluesky: treeeggs
