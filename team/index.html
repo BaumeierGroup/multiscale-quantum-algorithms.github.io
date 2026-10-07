@@ -74,7 +74,9 @@ navorder: 2
 <hr/>
 
 
-{% assign current_team = site.categories.team | where: "alum","false" | where: "position","PhD Candidate"%}
+{% assign current_team_phd = site.categories.team | where: "alum","false" | where: "position","PhD Candidate"%}
+{% assign current_team_postdoc = site.categories.team | where: "alum","false" | where: "position","Postdoctoral Researcher"%}
+{% assign current_team = current_team_phd |  concat: current_team_postdoc %}
 {% assign memberindex = 0 %}
 {% for member in current_team  %}
 	{% assign memberindex = memberindex | plus: 1 %}
