@@ -78,7 +78,7 @@ navorder: 2
 {% assign current_team_postdoc = site.categories.team | where: "alum","false" | where: "position","Postdoctoral Researcher"%}
 {% assign current_team = current_team_phd |  concat: current_team_postdoc %}
 {% assign memberindex = 0 %}
-{% for member in current_team  %}
+{% for member in current_team reversed %}
 	{% assign memberindex = memberindex | plus: 1 %}
 	{% assign colindex = memberindex | modulo: 3 %}
 	{% if colindex == 1 %} <!-- opening of a new row -->
